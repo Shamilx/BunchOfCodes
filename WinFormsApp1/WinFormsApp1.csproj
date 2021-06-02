@@ -1,0 +1,45 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>WinExe</OutputType>
+        <TargetFramework>net48-windows</TargetFramework>
+        <UseWindowsForms>true</UseWindowsForms>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <EmbeddedResource Update="Form1.resx">
+        <DependentUpon>Form1.cs</DependentUpon>
+      </EmbeddedResource>
+      <EmbeddedResource Update="Form2.resx">
+        <DependentUpon>Form2.cs</DependentUpon>
+      </EmbeddedResource>
+      <EmbeddedResource Update="Form3.resx">
+        <DependentUpon>Form3.cs</DependentUpon>
+      </EmbeddedResource>
+      <EmbeddedResource Update="Form4.resx">
+        <DependentUpon>Form4.cs</DependentUpon>
+      </EmbeddedResource>
+    </ItemGroup>
+
+    <ItemGroup>
+      <Compile Update="Form2.cs">
+        <SubType>Form</SubType>
+      </Compile>
+      <Compile Update="Form2.Designer.cs">
+        <DependentUpon>Form2.cs</DependentUpon>
+      </Compile>
+      <Compile Update="Form3.cs">
+        <SubType>Form</SubType>
+      </Compile>
+      <Compile Update="Form3.Designer.cs">
+        <DependentUpon>Form3.cs</DependentUpon>
+      </Compile>
+      <Compile Update="Form4.cs">
+        <SubType>Form</SubType>
+      </Compile>
+      <Compile Update="Form4.Designer.cs">
+        <DependentUpon>Form4.cs</DependentUpon>
+      </Compile>
+    </ItemGroup>
+
+</Project>
