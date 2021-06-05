@@ -1,0 +1,14 @@
+D:\CsharpWinforms\WinFormsApp3\WinFormsApp3\bin\Release\net48-windows\WinFormsApp3.exe.config
+D:\CsharpWinforms\WinFormsApp3\WinFormsApp3\bin\Release\net48-windows\WinFormsApp3.exe
+D:\CsharpWinforms\WinFormsApp3\WinFormsApp3\bin\Release\net48-windows\WinFormsApp3.pdb
+D:\CsharpWinforms\WinFormsApp3\WinFormsApp3\obj\Release\net48-windows\WinFormsApp3.csproj.AssemblyReference.cache
+D:\CsharpWinforms\WinFormsApp3\WinFormsApp3\obj\Release\net48-windows\WinFormsApp3.Form1.resources
+D:\CsharpWinforms\WinFormsApp3\WinFormsApp3\obj\Release\net48-windows\WinFormsApp3.UserControls.AddForm.resources
+D:\CsharpWinforms\WinFormsApp3\WinFormsApp3\obj\Release\net48-windows\WinFormsApp3.UserControls.EditForm.resources
+D:\CsharpWinforms\WinFormsApp3\WinFormsApp3\obj\Release\net48-windows\WinFormsApp3.UserControls.InfoForm.resources
+D:\CsharpWinforms\WinFormsApp3\WinFormsApp3\obj\Release\net48-windows\WinFormsApp3.csproj.GenerateResource.cache
+D:\CsharpWinforms\WinFormsApp3\WinFormsApp3\obj\Release\net48-windows\WinFormsApp3.AssemblyInfoInputs.cache
+D:\CsharpWinforms\WinFormsApp3\WinFormsApp3\obj\Release\net48-windows\WinFormsApp3.AssemblyInfo.cs
+D:\CsharpWinforms\WinFormsApp3\WinFormsApp3\obj\Release\net48-windows\WinFormsApp3.csproj.CoreCompileInputs.cache
+D:\CsharpWinforms\WinFormsApp3\WinFormsApp3\obj\Release\net48-windows\WinFormsApp3.exe
+D:\CsharpWinforms\WinFormsApp3\WinFormsApp3\obj\Release\net48-windows\WinFormsApp3.pdb
